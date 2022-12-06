@@ -1,0 +1,10 @@
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\bin\Debug\MiniSqlDerleyici.exe.config
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\bin\Debug\MiniSqlDerleyici.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\bin\Debug\MiniSqlDerleyici.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.frmDerleyici.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.Properties.Resources.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\MiniSqlDerleyici\MiniSqlDerleyici\obj\Debug\MiniSqlDerleyici.pdb
